@@ -1,0 +1,413 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/b4818037a147652ee4d75511ccbb4f9a/AndroidManifest.xml:17:1-22:12
+MERGED from [:firebase_ml_vision] /Users/shafran/Documents/test/flutter-firebasemlkit/build/firebase_ml_vision/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/d9a32ae2d6dced480a887e8e397fc8f9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-ml-vision:19.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-19.0.2.aar/c3221432881674fd5b6f09605985ad5c/AndroidManifest.xml:2:1-8:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/8631170ded7de76b0111b3aa8f246109/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/58cbf289438a84eb245ccb552c9cd6bd/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/168a141bbebefe530f07d1978610eea1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/0ba4c673aa1c58bd854cd7de4dbb48df/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/0eadf6a22fb8db63e4f4e7143bfd8191/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:16.2.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.2.3.aar/2e74d42bac9478241ea511f12a598190/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/947d1d1b5cd483213c020112f239b7ad/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fe827c285642d4bb9e6ce9adf0de3ccc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/087fba856bfa271f46529028a07c3b09/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/082131eeb8804d3a133e3442a8d68ccd/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6c040e5f57a563742877b171ec35d042/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/5fb81935ad7eecf838ce27947344b6e8/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/86d27ef3a6815e9151440494b3f905c0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a58c563949077281d312256d72d0d9dc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/5bb0b04cf9ab9fc4c9b94d153c133385/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cd1e65e30ef244bb89a9be65de21923/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/23ef33243b5274fcc1ac4ee60187215e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e6f09e61bd5cdf189555b9a2b2b4c088/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a1f72682d74c2747f5a622ac8b3ea04/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fc22742dc8f1e37a7798428be9b02a0e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/657dfaca0bf0871ecec68506991b4969/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.4.2.aar/7c02e8ea552a960c00c7e55e8a7895ac/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ae56623a21d6d7e716487d54da5162a1/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.4.2.aar/7d8de4614f5e33007be59859a805ed34/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/d9a32ae2d6dced480a887e8e397fc8f9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/d9a32ae2d6dced480a887e8e397fc8f9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/168a141bbebefe530f07d1978610eea1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/168a141bbebefe530f07d1978610eea1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/0ba4c673aa1c58bd854cd7de4dbb48df/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/0ba4c673aa1c58bd854cd7de4dbb48df/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/0eadf6a22fb8db63e4f4e7143bfd8191/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/0eadf6a22fb8db63e4f4e7143bfd8191/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/947d1d1b5cd483213c020112f239b7ad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/947d1d1b5cd483213c020112f239b7ad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/087fba856bfa271f46529028a07c3b09/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/087fba856bfa271f46529028a07c3b09/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/082131eeb8804d3a133e3442a8d68ccd/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/082131eeb8804d3a133e3442a8d68ccd/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6c040e5f57a563742877b171ec35d042/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6c040e5f57a563742877b171ec35d042/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/5fb81935ad7eecf838ce27947344b6e8/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/5fb81935ad7eecf838ce27947344b6e8/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/86d27ef3a6815e9151440494b3f905c0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/86d27ef3a6815e9151440494b3f905c0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a58c563949077281d312256d72d0d9dc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a58c563949077281d312256d72d0d9dc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/5bb0b04cf9ab9fc4c9b94d153c133385/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/5bb0b04cf9ab9fc4c9b94d153c133385/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cd1e65e30ef244bb89a9be65de21923/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cd1e65e30ef244bb89a9be65de21923/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/23ef33243b5274fcc1ac4ee60187215e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/23ef33243b5274fcc1ac4ee60187215e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e6f09e61bd5cdf189555b9a2b2b4c088/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e6f09e61bd5cdf189555b9a2b2b4c088/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a1f72682d74c2747f5a622ac8b3ea04/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a1f72682d74c2747f5a622ac8b3ea04/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fc22742dc8f1e37a7798428be9b02a0e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fc22742dc8f1e37a7798428be9b02a0e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/657dfaca0bf0871ecec68506991b4969/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/657dfaca0bf0871ecec68506991b4969/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.4.2.aar/7c02e8ea552a960c00c7e55e8a7895ac/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.4.2.aar/7c02e8ea552a960c00c7e55e8a7895ac/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ae56623a21d6d7e716487d54da5162a1/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ae56623a21d6d7e716487d54da5162a1/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.4.2.aar/7d8de4614f5e33007be59859a805ed34/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.4.2.aar/7d8de4614f5e33007be59859a805ed34/AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:17:9-33
+	android:icon
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.example.mlkitocr.MainActivity
+ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/b4818037a147652ee4d75511ccbb4f9a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/b4818037a147652ee4d75511ccbb4f9a/AndroidManifest.xml:20:5-43
+MERGED from [:firebase_ml_vision] /Users/shafran/Documents/test/flutter-firebasemlkit/build/firebase_ml_vision/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_ml_vision] /Users/shafran/Documents/test/flutter-firebasemlkit/build/firebase_ml_vision/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/d9a32ae2d6dced480a887e8e397fc8f9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-core-11.4.2.aar/d9a32ae2d6dced480a887e8e397fc8f9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-ml-vision:19.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-19.0.2.aar/c3221432881674fd5b6f09605985ad5c/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:19.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-19.0.2.aar/c3221432881674fd5b6f09605985ad5c/AndroidManifest.xml:6:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/8631170ded7de76b0111b3aa8f246109/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/8631170ded7de76b0111b3aa8f246109/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/58cbf289438a84eb245ccb552c9cd6bd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/58cbf289438a84eb245ccb552c9cd6bd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/168a141bbebefe530f07d1978610eea1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/168a141bbebefe530f07d1978610eea1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/0ba4c673aa1c58bd854cd7de4dbb48df/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/0ba4c673aa1c58bd854cd7de4dbb48df/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/0eadf6a22fb8db63e4f4e7143bfd8191/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/0eadf6a22fb8db63e4f4e7143bfd8191/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.2.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.2.3.aar/2e74d42bac9478241ea511f12a598190/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.2.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.2.3.aar/2e74d42bac9478241ea511f12a598190/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/947d1d1b5cd483213c020112f239b7ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/947d1d1b5cd483213c020112f239b7ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fe827c285642d4bb9e6ce9adf0de3ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fe827c285642d4bb9e6ce9adf0de3ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/087fba856bfa271f46529028a07c3b09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/087fba856bfa271f46529028a07c3b09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/082131eeb8804d3a133e3442a8d68ccd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/082131eeb8804d3a133e3442a8d68ccd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6c040e5f57a563742877b171ec35d042/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6c040e5f57a563742877b171ec35d042/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/5fb81935ad7eecf838ce27947344b6e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/5fb81935ad7eecf838ce27947344b6e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/86d27ef3a6815e9151440494b3f905c0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/86d27ef3a6815e9151440494b3f905c0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a58c563949077281d312256d72d0d9dc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a58c563949077281d312256d72d0d9dc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/5bb0b04cf9ab9fc4c9b94d153c133385/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/5bb0b04cf9ab9fc4c9b94d153c133385/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cd1e65e30ef244bb89a9be65de21923/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cd1e65e30ef244bb89a9be65de21923/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/23ef33243b5274fcc1ac4ee60187215e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/23ef33243b5274fcc1ac4ee60187215e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e6f09e61bd5cdf189555b9a2b2b4c088/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e6f09e61bd5cdf189555b9a2b2b4c088/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a1f72682d74c2747f5a622ac8b3ea04/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a1f72682d74c2747f5a622ac8b3ea04/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fc22742dc8f1e37a7798428be9b02a0e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fc22742dc8f1e37a7798428be9b02a0e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/657dfaca0bf0871ecec68506991b4969/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/657dfaca0bf0871ecec68506991b4969/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.4.2.aar/7c02e8ea552a960c00c7e55e8a7895ac/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.4.2.aar/7c02e8ea552a960c00c7e55e8a7895ac/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ae56623a21d6d7e716487d54da5162a1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ae56623a21d6d7e716487d54da5162a1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.4.2.aar/7d8de4614f5e33007be59859a805ed34/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.4.2.aar/7d8de4614f5e33007be59859a805ed34/AndroidManifest.xml:4:5-43
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cd1e65e30ef244bb89a9be65de21923/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shafran/Documents/test/flutter-firebasemlkit/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:22-62
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-19:75
+	android:resource
+		ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-72
+	android:name
+		ADDED from [:image_picker] /Users/shafran/Documents/test/flutter-firebasemlkit/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.4.2.aar/ccc978d832242d807a163e33b1f28119/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.4.2.aar/2c1a5e5a52b262f8dad05366ac0e4445/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:26:22-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/95aaf3144859a4e124ebadd8253975f4/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6c040e5f57a563742877b171ec35d042/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6c040e5f57a563742877b171ec35d042/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6c040e5f57a563742877b171ec35d042/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/6c040e5f57a563742877b171ec35d042/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/5fb81935ad7eecf838ce27947344b6e8/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/5fb81935ad7eecf838ce27947344b6e8/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/5fb81935ad7eecf838ce27947344b6e8/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/5fb81935ad7eecf838ce27947344b6e8/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/shafran/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/5fb81935ad7eecf838ce27947344b6e8/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/5bb0b04cf9ab9fc4c9b94d153c133385/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/5bb0b04cf9ab9fc4c9b94d153c133385/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/5bb0b04cf9ab9fc4c9b94d153c133385/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cd1e65e30ef244bb89a9be65de21923/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/23ef33243b5274fcc1ac4ee60187215e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/23ef33243b5274fcc1ac4ee60187215e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e6f09e61bd5cdf189555b9a2b2b4c088/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e6f09e61bd5cdf189555b9a2b2b4c088/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a1f72682d74c2747f5a622ac8b3ea04/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/0a1f72682d74c2747f5a622ac8b3ea04/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fc22742dc8f1e37a7798428be9b02a0e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fc22742dc8f1e37a7798428be9b02a0e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/657dfaca0bf0871ecec68506991b4969/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/657dfaca0bf0871ecec68506991b4969/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cd1e65e30ef244bb89a9be65de21923/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cd1e65e30ef244bb89a9be65de21923/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ae56623a21d6d7e716487d54da5162a1/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ae56623a21d6d7e716487d54da5162a1/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/shafran/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ae56623a21d6d7e716487d54da5162a1/AndroidManifest.xml:26:13-58

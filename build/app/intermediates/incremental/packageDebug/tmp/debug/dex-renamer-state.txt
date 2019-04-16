@@ -1,0 +1,7 @@
+#Sun Apr 14 20:32:13 IST 2019
+base.0=/Users/shafran/Documents/test/flutter-firebasemlkit/build/app/intermediates/transforms/dexMerger/debug/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/shafran/Documents/test/flutter-firebasemlkit/build/app/intermediates/transforms/dexMerger/debug/0
